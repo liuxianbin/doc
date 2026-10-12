@@ -20,7 +20,7 @@ EMQX 依赖 Erlang 运行时，直接用 rpm -ivh 容易因依赖报错。推荐
 
 ```bash
 # 安装
-sudo yum localinstall emqx-5.8.9-1.el7.x86_64.rpm
+sudo yum localinstall emqx-5.8.9-el7-amd64.rpm
 ```
 
 ### 启动
